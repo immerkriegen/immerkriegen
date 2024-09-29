@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Currently working on a managed K8s cloud service 🌨️
+- CICD enthusiast - Linux lover
+- Game Dev
+
+

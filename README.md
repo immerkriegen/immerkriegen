@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Graduated in Computer Science at McGill University 
-- Currently working on a managed K8s cloud service 🌨️
-- Harbinger of CICD  - Linux enthusiast
-- Game Dev
 
 ### Programming Languages
 [![My Languages](https://skillicons.dev/icons?i=cs,go,java,python,bash,c&theme=light)](https://skillicons.dev)
